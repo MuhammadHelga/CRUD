@@ -1,4 +1,5 @@
 <?php
+require "config.php";
 require "controller.php";
 require "Database.php";
 require "model.php";
